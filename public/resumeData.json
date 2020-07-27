@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Peter Miringu",
+    "occupation": "Assasin",
+    "description": "I am a problem solving and fears nobody, not even the government of South Korea...",
+    "image": "profilepic.jpg",
+    "bio": "I am a problem solving and fears nobody, not even the government of South Korea...",
+    "contactmessage": "Shh.. dont tell anyone that these are my contacts i am supposed to be a ghost",
+    "email": "peterkofta@gmail.com",
+    "phone": "+254779 215 563",
+    "address": {
+      "street": "Nowhere",
+      "city": "Ruiru",
+      "state": "Kenya",
+      "zip": "00232"
+    },
+    "website": "www.peterkofta.tk",
+    "resumedownload": "www.peterkofta.tk",
+    "social": [{
+        "name": "facebook",
+        "url": "http://facebook.com/supu ya ugali",
+        "className": "fa fa-facebook"
+      },
+
+      {
+        "name": "whatsapp",
+        "url": "http://instagram.com/_pin.chu_",
+        "className": "fas fa-whatsapp"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/_pin.chu_",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I said i fear nothing",
+    "education": [{
+        "school": "University?",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2007",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Kagumo High",
+        "degree": "Lots of stuff",
+        "graduated": "Novmber 2021",
+        "description": "Everything i think i know"
+      }
+    ],
+    "work": [{
+        "company": "Freelance",
+        "title": "Handler",
+        "years": "March 2020 - Present",
+        "description": "give me a hand and i'll show you"
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [{
+        "name": "singing",
+        "level": "60%"
+      },
+      {
+        "name": "Playing Recorder",
+        "level": "25%"
+      },
+      {
+        "name": "Dancing",
+        "level": "70%"
+      },
+      {
+        "name": "Math",
+        "level": "90%"
+      },
+      {
+        "name": "Thinking",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://instagram.com/_pin.chu_"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://instagram.com/_pin.chu_"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://instagram.com/_pin.chu_"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://instagram.com/_pin.chu_"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "He can handle things quite nicely",
+        "user": "Foreman"
+      },
+      {
+        "text": "Peter must be one of the most brilliant Government contractor I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best Macenary in no time!",
+        "user": "Dylan Mehe Mahe"
+      },
+      {
+        "text": "This guy can dance",
+        "user": "Samidoh"
+      }
+    ]
+  }
+}
