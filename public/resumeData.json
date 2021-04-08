@@ -2,7 +2,7 @@
   "main": {
     "name": "Peter Miringu",
     "occupation": "Assasin",
-    "description": "I am a problem solving and fears nobody, not even the government of South Korea...",
+    "description": "I am a problem solver and fears nobody, not even the government of South Korea...",
     "image": "profilepic.jpg",
     "bio": "I am a problem solving and fears nobody, not even the government of South Korea...",
     "contactmessage": "Shh.. dont tell anyone that these are my contacts i am supposed to be a ghost",
@@ -25,7 +25,7 @@
       {
         "name": "whatsapp",
         "url": "http://instagram.com/_pin.chu_",
-        "className": "fas fa-whatsapp"
+        "className": "fa fa-whatsapp"
       },
       {
         "name": "instagram",
@@ -57,9 +57,9 @@
       },
       {
         "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
+        "title": "Super Model",
         "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Do i have to say it coz i know that you know im handsome"
       }
     ],
     "skills": [{
@@ -86,32 +86,24 @@
   },
   "portfolio": {
     "projects": [{
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
+        "title": "I can think in pink and sink and wink all at the same time",
+        "image": "pink.jpg",
         "url": "http://instagram.com/_pin.chu_"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
+        "title": "If i could i would destroy the universe",
+        "image": "thanos.jpg",
         "url": "http://instagram.com/_pin.chu_"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
+        "title": "I know i have it inside me but as a reminder this is what i can do ",
+        "image": "sparks.jpg",
         "url": "http://instagram.com/_pin.chu_"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
+        "title": "Don't you ever want to get away from it all.. I mean with a snap of a finger and you disappear never to be seen again.",
+        "category": "I can..",
+        "image": "fade.png",
         "url": "http://instagram.com/_pin.chu_"
       }
     ]
