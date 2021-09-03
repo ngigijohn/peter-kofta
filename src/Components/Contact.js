@@ -92,17 +92,15 @@ class Contact extends Component {
                      <ul id="twitter">
                         <li>
                            <span>
-                              This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                              Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="https://www.peterkofta.tk">peterkofta</a>
+                              A bright future starts with lighting a match today. Be ready because I might only have one match, but I can make an explosion.
+                              <a href="https://www.peterkofta.tk">peterkofta</a>
                            </span>
                            <b><a href="https://www.peterkofta.tk">2 Days Ago</a></b>
                         </li>
                         <li>
                            <span>
-                              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                              eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="https://www.peterkofta.tk">peterkofta</a>
+                              Now close your eyes an count to sixteen.
+                              <a href="https://www.peterkofta.tk">peterkofta</a>
                            </span>
                            <b><a href="https://www.peterkofta.tk">3 Days Ago</a></b>
                         </li>

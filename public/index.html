@@ -39,15 +39,7 @@
   <script src="js/jquery.fittext.js"></script>
   <script src="js/magnific-popup.js"></script>
   <script src="js/init.js"></script>
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./serviceworker.js')
-          .then((reg) => console.log('success: ', reg.scope))
-          .catch((err) => console.log('Failure: ', err));
-      })
-    }
-  </script>
+  <!-- service worker -->
 </body>
 
 </html>

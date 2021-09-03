@@ -1,15 +1,15 @@
 {
   "main": {
     "name": "Peter Miringu",
-    "occupation": "Assasin",
-    "description": "I am a problem solver and fears nobody, not even the government of South Korea...",
+    "occupation": "Student",
+    "description": "I'm an ambitious problem solver who is ready to change the world.",
     "image": "profilepic.jpg",
-    "bio": "I am a problem solving and fears nobody, not even the government of South Korea...",
-    "contactmessage": "Shh.. dont tell anyone that these are my contacts i am supposed to be a ghost",
+    "bio": "A clear future with no regrets",
+    "contactmessage": "Get to kwow me better",
     "email": "peterkofta@gmail.com",
-    "phone": "+254779 215 563",
+    "phone": "+254 792 155 683",
     "address": {
-      "street": "Nowhere",
+      "street": "Ruiru",
       "city": "Ruiru",
       "state": "Kenya",
       "zip": "00232"
@@ -37,23 +37,23 @@
   "resume": {
     "skillmessage": "I said i fear nothing",
     "education": [{
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Technical university of Mombasa",
+        "degree": "Bachelor in Medical Engineering",
+        "graduated": "N/A",
+        "description": ""
       },
       {
         "school": "Kagumo High",
-        "degree": "Lots of stuff",
-        "graduated": "Novmber 2021",
-        "description": "Everything i think i know"
+        "degree": "High School Certificate",
+        "graduated": "2021",
+        "description": ""
       }
     ],
     "work": [{
-        "company": "Freelance",
-        "title": "Handler",
+        "company": "Pambazuko Butchery",
+        "title": "Butcher",
         "years": "March 2020 - Present",
-        "description": "give me a hand and i'll show you"
+        "description": "Selling Meat, Soup, Mutura, Cooking"
       },
       {
         "company": "Super Cool Studio",
@@ -63,12 +63,12 @@
       }
     ],
     "skills": [{
-        "name": "singing",
+        "name": "Butcher",
         "level": "60%"
       },
       {
-        "name": "Playing Recorder",
-        "level": "25%"
+        "name": "Fun",
+        "level": "80%"
       },
       {
         "name": "Dancing",
@@ -96,13 +96,12 @@
         "url": "http://instagram.com/_pin.chu_"
       },
       {
-        "title": "I know i have it inside me but as a reminder this is what i can do ",
+        "title": "I know i have it inside me but as a reminder this is what i can do. With great power comes great responsibility",
         "image": "sparks.jpg",
         "url": "http://instagram.com/_pin.chu_"
       },
       {
-        "title": "Don't you ever want to get away from it all.. I mean with a snap of a finger and you disappear never to be seen again.",
-        "category": "I can..",
+        "title": "Don't you ever want to get away from it all.. I mean with a snap of a finger and you disappear never to be seen again. I can..",
         "image": "fade.png",
         "url": "http://instagram.com/_pin.chu_"
       }
@@ -111,11 +110,11 @@
   "testimonials": {
     "testimonials": [{
         "text": "He can handle things quite nicely",
-        "user": "Foreman"
+        "user": "George Githinji"
       },
       {
-        "text": "Peter must be one of the most brilliant Government contractor I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best Macenary in no time!",
-        "user": "Dylan Mehe Mahe"
+        "text": "Peter must be one of the most brilliant person I've ever met! Hiring him was an amazing expeience. I am confident that he will find success in no time!",
+        "user": "John Ngigi"
       },
       {
         "text": "This guy can dance",
